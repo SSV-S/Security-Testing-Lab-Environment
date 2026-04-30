@@ -1,4 +1,4 @@
-# Security Testing VM Setup
+# Security Testing Lab Environment
 
 This repository documents the setup of isolated Windows security testing environments using Windows Sandbox and Oracle VirtualBox. The goal is to test applications, browser activity, and security tools without affecting the host operating system.
 
